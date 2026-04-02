@@ -3,3 +3,8 @@ Check it up and you can continue filling in missing values straight from that (n
 
 P.S. we can now ignore the "Data_Cleaning_0", just use "Data_Cleaning_1" one.
 - Jin -
+
+
+Friday - 03/04/2026
+After running the raw data through 'Data_Cleaning_1' file, download the csv from that and run that csv through 'Missing Values-1' to fill in those missing values.
+- Jin -
